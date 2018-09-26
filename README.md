@@ -2,16 +2,7 @@
 
 > **欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远**
 
-* **机器学习和自然语言处理群【436303759】<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=737cbb184598a5dd577bb4f8da359556694f570a2f8dfac5ae3dde9e0a0378e6"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="机器学习和自然语言" title="机器学习和自然语言"></a>**
-
-* **Machine Learning in Action (机器学习实战) | [ApacheCN(apache中文网)](http://cwiki.apachecn.org/)**
-* 电子版书籍：[【机器学习实战-中文版-带目录版.pdf】](https://github.com/apachecn/MachineLearning/tree/master/books)  
-* -- 感谢 [群小哥哥：Wizard Zhang](https://github.com/wizardforcel) 生成的电子书[《机器学习实战-ApacheCN.pdf》](https://github.com/apachecn/MachineLearning/blob/master/books/机器学习实战-ApacheCN.pdf)
-* **视频已更新完成，如果你觉得有价值，请帮忙点 Star【后续组织学习活动：sklearn、kaggle、 Pytorch 和 tensorflow】**
-* -- 视频网站：优酷 ／bilibili / Acfun / 网易云课堂，可直接在线播放。（最下方有相应链接）
-* -- [群小哥哥：红色石头的机器学习之路](https://github.com/RedstoneWill): [台湾大学林轩田机器学习基石课程 - **系列学习笔记**](https://mp.weixin.qq.com/s/xb0i55zIQVzCiSZALbvncg)
-
-**<font color=red>ApacheCN 网友捐赠页面</font>：http://www.apachecn.org/organization/664.html**
+* **机器学习和自然语言处理群【436303759】** <a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=737cbb184598a5dd577bb4f8da359556694f570a2f8dfac5ae3dde9e0a0378e6"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="机器学习和自然语言" title="机器学习和自然语言"></a> 
 
 ## 机器学习
 
