@@ -10,201 +10,134 @@
     <th>模块</th>
     <th>章节</th>
     <th>类型</th>
-    <th>负责人(GitHub)</th>
-    <th>QQ</th>
   </tr>
   <tr>
     <td>机器学习实战</td>
     <td><a href="https://github.com/apachecn/MachineLearning/blob/master/docs/1.机器学习基础.md"> 第 1 章: 机器学习基础</a></td>
     <td>介绍</td>
-    <td><a href="https://github.com/ElmaDavies">@毛红动</a></td>
-    <td>1306014226</td>
   </tr>
   <tr>
     <td>机器学习实战</td>
     <td><a href="https://github.com/apachecn/MachineLearning/blob/master/docs/2.k-近邻算法.md">第 2 章: KNN 近邻算法</a></td>
     <td>分类</td>
-    <td><a href="https://github.com/youyj521">@尤永江</a></td>
-    <td>279393323</td>
   </tr>
   <tr>
     <td>机器学习实战</td>
     <td><a href="https://github.com/apachecn/MachineLearning/blob/master/docs/3.决策树.md">第 3 章: 决策树</a></td>
     <td>分类</td>
-    <td><a href="https://github.com/jingwangfei">@景涛</a></td>
-    <td>844300439</td>
   </tr>
   <tr>
     <td>机器学习实战</td>
     <td><a href="https://github.com/apachecn/MachineLearning/blob/master/docs/4.朴素贝叶斯.md">第 4 章: 朴素贝叶斯</a></td>
     <td>分类</td>
-    <td><a href="https://github.com/wnma3mz">@wnma3mz</a><br/><a href="https://github.com/kailian">@分析</a></td>
-    <td>1003324213<br/>244970749</td>
   </tr>
   <tr>
     <td>机器学习实战</td>
     <td><a href="https://github.com/apachecn/MachineLearning/blob/master/docs/5.Logistic回归.md">第 5 章: Logistic回归</a></td>
     <td>分类</td>
-    <td><a href="https://github.com/DataMonk2017">@微光同尘</a></td>
-    <td>529925688</td>
   </tr>
   <tr>
     <td>机器学习实战</td>
     <td><a href="https://github.com/apachecn/MachineLearning/blob/master/docs/6.支持向量机.md">第 6 章: SVM 支持向量机</a></td>
     <td>分类</td>
-    <td><a href="https://github.com/VPrincekin">@王德红</a></td>
-    <td>934969547</td>
   </tr>
   <tr>
     <td>网上组合内容</td>
     <td><a href="https://github.com/apachecn/MachineLearning/blob/master/docs/7.集成方法-随机森林和AdaBoost.md">第 7 章: 集成方法（随机森林和 AdaBoost）</a></td>
     <td>分类</td>
-    <td><a href="https://github.com/jiangzhonglian">@片刻</a></td>
-    <td>529815144</td>
   </tr>
   <tr>
     <td>机器学习实战</td>
     <td><a href="https://github.com/apachecn/MachineLearning/blob/master/docs/8.回归.md">第 8 章: 回归</a></td>
     <td>回归</td>
-    <td><a href="https://github.com/DataMonk2017">@微光同尘</a></td>
-    <td>529925688</td>
   </tr>
   <tr>
     <td>机器学习实战</td>
     <td><a href="https://github.com/apachecn/MachineLearning/blob/master/docs/9.树回归.md">第 9 章: 树回归</a></td>
     <td>回归</td>
-    <td><a href="https://github.com/DataMonk2017">@微光同尘</a></td>
-    <td>529925688</td>
   </tr>
   <tr>
     <td>机器学习实战</td>
     <td><a href="https://github.com/apachecn/MachineLearning/blob/master/docs/10.k-means聚类.md">第 10 章: K-Means 聚类</a></td>
     <td>聚类</td>
-    <td><a href="https://github.com/xuzhaoqing">@徐昭清</a></td>
-    <td>827106588</td>
   </tr>
   <tr>
     <td>机器学习实战</td>
     <td><a href="https://github.com/apachecn/MachineLearning/blob/master/docs/11.使用Apriori算法进行关联分析.md">第 11 章: 利用 Apriori 算法进行关联分析</a></td>
     <td>频繁项集</td>
-    <td><a href="https://github.com/WindZQ">@刘海飞</a></td>
-    <td>1049498972</td>
   </tr>
   <tr>
     <td>机器学习实战</td>
     <td><a href="https://github.com/apachecn/MachineLearning/blob/master/docs/12.使用FP-growth算法来高效发现频繁项集.md">第 12 章: FP-growth 高效发现频繁项集</a></td>
     <td>频繁项集</td>
-    <td><a href="https://github.com/mikechengwei">@程威</a></td>
-    <td>842725815</td>
   </tr>
   <tr>
     <td>机器学习实战</td>
     <td><a href="https://github.com/apachecn/MachineLearning/blob/master/docs/13.利用PCA来简化数据.md">第 13 章: 利用 PCA 来简化数据</a></td>
     <td>工具</td>
-    <td><a href="https://github.com/lljuan330">@廖立娟</a></td>
-    <td>835670618</td>
   </tr>
   <tr>
     <td>机器学习实战</td>
     <td><a href="https://github.com/apachecn/MachineLearning/blob/master/docs/14.利用SVD简化数据.md">第 14 章: 利用 SVD 来简化数据</a></td>
     <td>工具</td>
-    <td><a href="https://github.com/marsjhao">@张俊皓</a></td>
-    <td>714974242</td>
   </tr>
   <tr>
     <td>机器学习实战</td>
     <td><a href="https://github.com/apachecn/MachineLearning/blob/master/docs/15.大数据与MapReduce.md">第 15 章: 大数据与 MapReduce</a></td>
     <td>工具</td>
-    <td>空缺 - 有兴趣私聊片刻</td>
-    <td>842376188</td>
   </tr>
   <tr>
     <td>Ml项目实战</td>
     <td><a href="https://github.com/apachecn/MachineLearning/blob/master/docs/16.推荐系统.md">第 16 章: 推荐系统</a></td>
     <td>项目</td>
-    <td>空缺 - 有兴趣私聊片刻</td>
-    <td>842376188</td>
   </tr>
 </table>
 
 
-## 自然语言处理(NLP)
+## 技术交流群
 
-### 第一部分 入门介绍
+机器学习和自然语言（QQ群号：436303759）是一个研究深度学习、机器学习、自然语言处理、数据挖掘、图像处理、目标检测、数据科学等AI相关领域的技术群。其宗旨是纯粹的AI技术圈子、绿色的交流环境。为解决成员交流中的时间壁垒，为提高群体技术交流效率。本群倡导"AI技术视频共享"项目，纯粹的收集大家珍藏的技术视频资源，汇少成多，更多的服务大家。本群中的技术视频均由成员无偿自愿上传，以供所有共享者学习。择其部分视频供无共享者成员学习，此技术视频属于公益无偿的，仅供个人学习。不可进行商业活动，违者自行承担后果。本群禁止有违背法律法规和道德的言谈举止。群成员备注格式：城市-自命名。微信订阅号：datathinks
 
-* 1.) [自然语言处理入门介绍](./docs/NLP/1.自然语言处理入门介绍.md)
+截止2019年4月10日经过严格视频质量审核通过的视频为8类包括Python Web技术视频3套、大数据技术视频3套、机器学习技术视频3套、深度学习技术视频8套、数据科学视频6套、数据挖掘视频2套、自然语言处理视频6套和图像处理视频2套，共计33套，约1300G。具体如下：
 
-### 第二部分 机器翻译
-
-* 2.) [机器翻译](./docs/NLP/2.机器翻译.md)
-
-### 第三部分 篇章分析
-
-* 3.1.) [篇章分析-内容概述](./docs/NLP/3.1.篇章分析-内容概述.md)
-* 3.2.) [篇章分析-内容标签](./docs/NLP/3.2.篇章分析-内容标签.md)
-* 3.3.) [篇章分析-情感分析](./docs/NLP/3.3.篇章分析-情感分析.md)
-* 3.4.) [篇章分析-自动摘要](./docs/NLP/3.4.篇章分析-自动摘要.md)
-
-### 第四部分 UNIT-语言理解与交互技术
-
-* 4.) [UNIT-语言理解与交互技术](./docs/NLP/4.UNIT-语言理解与交互技术.md)
-
-
-## 网站视频
-
-> [知乎问答-爆炸啦-机器学习该怎么入门？](https://www.zhihu.com/question/20691338/answer/248678328)
-
-当然我知道，第一句就会被吐槽，因为科班出身的人，不屑的吐了一口唾沫，说傻X，还评论 Andrew Ng 的视频。。
-
-我还知道还有一部分人，看 Andrew Ng 的视频就是看不懂，那神秘的数学推导，那迷之微笑的英文版的教学，我何尝又不是这样走过来的？？ 我的心可能比你们都痛，因为我在网上收藏过上10部《机器学习》相关视频，外加国内本土风格的教程：7月+小象 等等，我都很难去听懂，直到有一天，被一个百度的高级算法分析师推荐说：《机器学习实战》还不错，通俗易懂，你去试试？？
-
-我试了试，还好我的Python基础和调试能力还不错，基本上代码都调试过一遍，很多高大上的 "理论+推导"，在我眼中变成了几个 "加减乘除+循环"，我想这不就是像我这样的程序员想要的入门教程么？
-
-很多程序员说机器学习 TM 太难学了，是的，真 TM 难学，我想最难的是：没有一本像《机器学习实战》那样的作者愿意以程序员 Coding 角度去给大家讲解！！
-
-最近几天，GitHub 涨了 300颗 star，加群的200人， 现在还在不断的增加++，我想大家可能都是感同身受吧！
-
-很多想入门新手就是被忽悠着收藏收藏再收藏，但是最后还是什么都没有学到，也就是"资源收藏家"，也许新手要的就是 [MachineLearning(机器学习) 学习路线图](http://www.apachecn.org/map/145.html)。没错，我可以给你们的一份，因为我们还通过视频记录下来我们的学习过程。水平当然也有限，不过对于新手入门，绝对没问题，如果你还不会，那算我输！！
-
-
-> 【免费】机器/深度学习视频 - 吴恩达
-
-| 机器学习 | 深度学习 |
-| - | - |
-| [吴恩达机器学习](http://study.163.com/course/courseMain.htm?courseId=1004570029) | [神经网络和深度学习](http://mooc.study.163.com/course/2001281002?tid=2001392029) |
-
-## 项目负责人
-
-> Ml 第一期 (2017-02-27)
-
-* [@片刻](https://github.com/jiangzhonglian)
-* [@那伊抹微笑](https://github.com/wangyangting)
-* [@瑶妹](https://github.com/chenyyx)
-* [2017-04-08_第一期的总结](/report/2017-04-08_第一期的总结.md)
-
-> Ml 第二期 (2017-08-14)
-
-* [@片刻](https://github.com/jiangzhonglian)
-* [@那伊抹微笑](https://github.com/wangyangting)
-* [@瑶妹](https://github.com/chenyyx)
-* [@Mike](https://github.com/mikechengwei)
-
-> Ml 第三期 (2018-04-16)
-
-
-## 免责声明 - 【只供学习参考】
-
-* ApacheCN 纯粹出于学习目的与个人兴趣翻译本书
-* ApacheCN 保留对此版本译文的署名权及其它相关权利
-
-## [ApacheCN 组织资源](http://www.apachecn.org/)
-
-> [kaggle: 机器学习竞赛](https://github.com/apachecn/kaggle)
-
-| 深度学习 | 机器学习  | 大数据 | 运维工具 |
-| --- | --- | --- | --- |
-| [TensorFlow R1.2 中文文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=10030122) | [机器学习实战-教学](https://github.com/apachecn/MachineLearning) | [Spark 2.2.0和2.0.2 中文文档](http://spark.apachecn.org/) | [Zeppelin 0.7.2 中文文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=10030467) |
-| [Pytorch 0.3 中文文档 ](http://pytorch.apachecn.org/cn/0.3.0/) | [Sklearn 0.19 中文文档](http://sklearn.apachecn.org/) | [Storm 1.1.0和1.0.1 中文文档](http://storm.apachecn.org/) | [Kibana 5.2 中文文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=8159377) |
-|  | [LightGBM 中文文档](http://lightgbm.apachecn.org/cn/latest) | [Kudu 1.4.0 中文文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=10813594) |  |
-|  | [XGBoost 中文文档](http://xgboost.apachecn.org/cn/latest)  | [Elasticsearch 5.4 中文文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=4260364) |
-|  |  | [Beam 中文文档](http://beam.apachecn.org/) |
+- Python Web技术视频
+  - Django网站开发（贡献者：顽主）
+  - Python Web开发完整视频（贡献者：顽主）
+  - Python最新就业班（贡献者：顽主）
+- 大数据技术视频
+  - Hadoop44集入门视频（贡献者：数据思维）
+  - Hadoop全套视频（贡献者：数据思维）
+  - Hadoop实战视频（贡献者：数据思维）
+- 机器学习技术视频
+  - 吴恩达机器学习视频（贡献者：烟花易冷）
+  - 机器学习视频（贡献者：Candymoon）
+  - 2017机器学习升级（贡献者：北京-sunboy）
+- 深度学习技术视频
+  - Tensorflow源码级技术分享（贡献者：数据思维）
+  - 深度神经网络算法全套（贡献者：流音）
+  - 吴恩达深度学习视频（贡献者：烟花易冷）
+  - 神经网络算法与推荐系统实战（贡献者：水上书）
+  - 深度学习（贡献者：顽主）
+  - 深度学习实战视频-人脸检测（贡献者：张顺）
+  - Tensorflow实战视频-文本分类（贡献者：张顺）
+  - TensorFlow打造唐诗生成网络（贡献者：张顺）
+- 数据科学视频
+  - Scrapy爬虫框架进阶课程（贡献者：数据思维）
+  - 分布式爬虫实战视频（贡献者：Timothy）
+  - Python数据分析与机器学习实战（贡献者：小佐）
+  - 廖雪峰商业爬虫（贡献者：顽主）
+  - Python量化金融项目（贡献者：顽主）
+  - Python数据分析与机器学习实战（贡献者：顽主）
+- 数据挖掘视频
+  - 大数据数据分析与挖掘（贡献者：顽主）
+  - Python3数据分析与挖掘实战（贡献者：顽主）
+- 自然语言处理视频
+  - 知识图谱视频（贡献者：Candymoon）
+  - 自然语言处理（贡献者：微笑，向着太阳）
+  - 知识图谱（贡献者：微笑，向着太阳）
+  - 机器学习之自然语言处理（贡献者：大白菜）
+  - 自然语言处理之序列模型（贡献者：无为而立）
+  - 文本挖掘与自然语言处理（贡献者：海蓝你喜欢吗）
+- 图像处理视频
+  - 中科院图像处理系列课程（贡献者：顽主）
+  - 2018深度学习之目标检测  （贡献者：顽主）
