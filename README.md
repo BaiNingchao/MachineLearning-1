@@ -1,6 +1,6 @@
-# MachineLearning
+# 机器学习实战源码下载
 
-> **欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远**
+> 机器学习和自然语言（QQ群号：436303759）是一个研究深度学习、机器学习、自然语言处理、数据挖掘、图像处理、目标检测、数据科学等AI相关领域的技术群。其宗旨是纯粹的AI技术圈子、绿色的交流环境。
 
 
 ## 机器学习
@@ -127,10 +127,6 @@
   </tr>
 </table>
 
-## 深度学习(DeepLearning) —— 正在更新迭代
-
-* 1.) [入门介绍](./docs/DeepLearning/1.入门介绍.md)
-* 2.） 代码位置：src/py2.x or py3.x/DL
 
 ## 自然语言处理(NLP)
 
@@ -170,34 +166,6 @@
 
 很多想入门新手就是被忽悠着收藏收藏再收藏，但是最后还是什么都没有学到，也就是"资源收藏家"，也许新手要的就是 [MachineLearning(机器学习) 学习路线图](http://www.apachecn.org/map/145.html)。没错，我可以给你们的一份，因为我们还通过视频记录下来我们的学习过程。水平当然也有限，不过对于新手入门，绝对没问题，如果你还不会，那算我输！！
 
-> 视频怎么看？
-
-![](images/MainPage/ApacheCN-ML-bilibili-compare.jpg)
-
-1. 理论科班出身-建议去学习 Andrew Ng 的视频（Ng 的视频绝对是权威，这个毋庸置疑）
-2. 编码能力强 - 建议看我们的[《机器学习实战-教学版》](https://space.bilibili.com/97678687/#!/channel/detail?cid=22486)
-3. 编码能力弱 - 建议看我们的[《机器学习实战-讨论版》](https://space.bilibili.com/97678687/#!/channel/detail?cid=13045)，不过在看理论的时候，看 教学版-理论部分；讨论版的废话太多，不过在讲解代码的时候是一行一行讲解的；所以，根据自己的需求，自由的组合。
-
-循序渐进大体介绍：[机器学习初学者建议 | ApacheCN](http://www.apachecn.org/map/179.html)
-
-干货内容实际操作：[MachineLearning(机器学习) 学习路线图](http://www.apachecn.org/map/145.html)
-
-> 【免费】数学教学视频 - 可汗学院 入门篇
-
-* [@于振梓]() 推荐: 可汗学院-网易公开课 
-
-| 概率 | 统计 | 线性代数 |
-| - | - | - |
-| [可汗学院(概率)](http://open.163.com/special/Khan/probability.html)  | [可汗学院(统计学)](http://open.163.com/special/Khan/khstatistics.html)| [可汗学院(线性代数)](http://open.163.com/special/Khan/linearalgebra.html)
-
-> 机器学习视频 - ApacheCN 教学版
-
-|||
-| - | - |
-| AcFun | B站 |
-| <a title="AcFun（机器学习视频）" href="http://www.acfun.cn/u/12540256.aspx#page=1" target="_blank"><img width="290" src="images/MainPage/ApacheCN-ML-AcFun.jpg"></a> | <a title="bilibili（机器学习视频）" href="https://space.bilibili.com/97678687/#!/channel/index" target="_blank"><img width="290" src="images/MainPage/ApacheCN-ML-bilibili.jpg"></a> |
-| 优酷 | 网易云课堂 |
-| <a title="YouKu（机器学习视频）" href="http://i.youku.com/apachecn" target="_blank"><img width="290" src="images/MainPage/ApacheCM-ML-youku.jpg"></a> | <a title="WangYiYunKeTang（机器学习视频）" href="http://study.163.com/course/courseMain.htm?courseId=1004582003" target="_blank"><img width="290" src="images/MainPage/ApacheCM-ML-WangYiYunKeTang.png"></a> |
 
 > 【免费】机器/深度学习视频 - 吴恩达
 
@@ -223,60 +191,6 @@
 
 > Ml 第三期 (2018-04-16)
 
-
-## 项目贡献者
-
-> Ml 第一期 (2017-02-27)
-
-* [@侯法超](https://github.com/geekidentity)
-* [@hello19883](https://github.com/hello19883)
-* [@徐鑫](https://github.com/sheepmen)
-* [@ibe](https://github.com/highfei2011)
-
-> Ml 第二期 (2017-08-14)
-
-* [@Arithmetic](https://github.com/LeeMoonCh)
-* [@Veyron C](https://github.com/caopeirui)
-* [@Cugtyt](https://github.com/Cugtyt)
-* [@BBruceyuan](https://github.com/hey-bruce)
-
-> Ml 第三期 (2018-04-16)
-
-## 群管理员换届
-
-* [@瑶妹](https://github.com/chenyyx)
-* [@飞龙](https://github.com/wizardforcel)
-* [@片刻](https://github.com/jiangzhonglian)
-* [@伪文艺.](https://github.com/Watermelon233)
-* [@那伊抹微笑](https://github.com/wangyangting)
-* [@LAMDA-健忘症]()  永久留任-非常感谢对群的贡献
-
-> Ml 第一届 (2017-07-04 结束)
-
-* [@易漠]()
-* [@Mike](https://github.com/mikechengwei)
-* [@Books]()
-* [@李孟禹]()
-* [@张假飞]()
-* [@Glassy]()
-* [@红色石头]()
-* [@微光同尘]()
-
-> Ml 第二届 (刚开始)
-
-* [@张假飞]()
-* [@李孟禹]()
-* [@小明教主]()
-* [@平淡的天]()
-* [@凌少skierゞ]()
-* [@じ☆νЁ坐看云起]()
-
-**欢迎贡献者不断的追加**
-
-> 加入方式
-
-* 企鹅: 529815144(片刻) 1042658081(那伊抹微笑) 190442212(瑶妹)
-* [ApacheCN(apache中文网) 维护更新](http://www.apachecn.org) : [关于我们](http://cwiki.apachecn.org/pages/viewpage.action?pageId=2887240) && [加入我们](http://cwiki.apachecn.org/pages/viewpage.action?pageId=2887239)
 
 ## 免责声明 - 【只供学习参考】
 
